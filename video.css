@@ -23,6 +23,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background: rgb(79, 29, 133);
 }
 nav .logo{
     width: 80px;
