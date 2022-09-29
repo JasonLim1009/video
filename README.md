@@ -1,3 +1,3 @@
 # video
 
-![This is an image]![image](https://user-images.githubusercontent.com/107684179/185781181-5303339f-a079-40b7-a35f-13e55dab0eec.png)
+![Screenshot_1](https://user-images.githubusercontent.com/107684179/193018813-f0d99f78-412f-42dd-a9d1-666259ce6812.png)
